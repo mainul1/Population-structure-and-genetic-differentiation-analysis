@@ -6,7 +6,7 @@ This pipeline extracts and analyzes DNA sequences for population structure and g
 
 ### Files in this Package
 - `sequence_extraction_script.py` - Main script to extract sequences from NCBI GenBank
-- `population_analysis_script.py` - Basic population genetics analysis script  
+- `population_genetics_analyzer.py` - Basic population genetics analysis script  
 - `requirements.txt` - Python package dependencies
 - `Metadata.csv` - Sample metadata with accession numbers
 - `README.md` - This instruction file
@@ -169,3 +169,4 @@ For questions about this pipeline or evolutionary genetics analysis, consult:
 
 ---
 *Analysis pipeline for Rhodnius prolixus population genetics - November 2025*
+
