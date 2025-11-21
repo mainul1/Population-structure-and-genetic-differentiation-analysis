@@ -46,7 +46,7 @@
 - 04_genetic_differentiation.png
 - 05_ecoepidemiological_context.png
 - 06_workflow_diagram.png
-- nature_paper_results.csv
+- results.csv
 - All analysis scripts and commands
 
 ### STATISTICAL SIGNIFICANCE:
@@ -56,3 +56,4 @@
 
 This analysis provides comprehensive insights into R. prolixus population genetics
 relevant to Chagas disease transmission and vector control strategies.
+
