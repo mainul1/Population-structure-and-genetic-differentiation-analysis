@@ -1,0 +1,20 @@
+# Requirements for Rhodnius prolixus sequence extraction and analysis
+# Install with: pip install -r requirements.txt
+
+# Core bioinformatics packages
+biopython>=1.81
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Additional packages for analysis (optional but recommended)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scipy>=1.7.0
+requests>=2.25.0
+
+# For advanced phylogenetic analysis (optional)
+# dendropy>=4.5.0
+# ete3>=3.1.0
+
+# For sequence alignment (if needed locally)
+# muscle>=5.0.0  # Alternative to online MAFFT
