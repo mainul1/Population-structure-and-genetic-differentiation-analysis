@@ -85,7 +85,7 @@ Based on the methods in your reference paper, you should obtain:
 | **Haplotype diversity (h)** | Genetic variation measure |
 
 #### 2. Population Structure Results
-- **Sample distribution**: Colombia (~80 samples), Venezuela (~40 samples), Brazil (~10 samples)
+- **Sample distribution**: Colombia (~94 samples), Venezuela (~29 samples), Brazil (~6 samples)
 - **Geographic clustering**: Samples grouped by country/state
 - **Population differentiation**: FST values between populations
 - **Gene flow patterns**: Connectivity between regions
@@ -169,5 +169,6 @@ For questions about this pipeline or evolutionary genetics analysis, consult:
 
 ---
 *Analysis pipeline for Rhodnius prolixus population genetics - November 2025*
+
 
 
