@@ -1,4 +1,4 @@
-# Rhodnius prolixus Population Genetics Analysis Pipeline
+# _Rhodnius prolixus_ Population Genetics Analysis Pipeline
 ## Evolutionary Genetics Assignment
 
 ### Overview
@@ -169,4 +169,5 @@ For questions about this pipeline or evolutionary genetics analysis, consult:
 
 ---
 *Analysis pipeline for Rhodnius prolixus population genetics - November 2025*
+
 
