@@ -6,7 +6,7 @@ Sequence Extraction Script for Rhodnius prolixus Population Genetics Study
 This script extracts DNA sequences from NCBI GenBank using accession numbers
 from metadata CSV file for evolutionary genetics analysis.
 
-Author: Evolutionary Genetics Analysis
+Author: Mohammad Sarker
 Date: November 2025
 Assignment: Population structure and genetic differentiation analysis
 """
@@ -394,3 +394,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
